@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A stylish, modern living room with a comfortable sofa and artistic decor, creating a welcoming atmosphere.",
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc1OTA0NDA5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "product-leather-jacket-1",
+      "description": "A classic black leather jacket hanging on a rack.",
+      "imageUrl": "https://images.unsplash.com/photo-1592158249887-ac6ae7921691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsZWF0aGVyJTIwamFja2V0fGVufDB8fHx8MTc1OTA4MTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather jacket"
+    },
+    {
+      "id": "product-leather-jacket-2",
+      "description": "Close-up detail of the leather jacket's zipper and texture.",
+      "imageUrl": "https://images.unsplash.com/photo-1754666062254-bd73e24e58f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxqYWNrZXQlMjBkZXRhaWx8ZW58MHx8fHwxNzU5MTIyMzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jacket detail"
+    },
+    {
+      "id": "product-smart-watch-1",
+      "description": "A modern smart watch displaying a colorful watch face.",
+      "imageUrl": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc1OTA1MTk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart watch"
+    },
+    {
+      "id": "product-smart-watch-2",
+      "description": "Side view of the smart watch showing its slim profile and crown.",
+      "imageUrl": "https://images.unsplash.com/photo-1734313802367-17554c50bb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3YXRjaCUyMHNpZGV8ZW58MHx8fHwxNzU5MTA4NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "watch side"
+    },
+    {
+      "id": "product-wireless-headphones-1",
+      "description": "Sleek black wireless headphones on a minimalist background.",
+      "imageUrl": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3aXJlbGVzcyUyMGhlYWRwaG9uZXN8ZW58MHx8fHwxNzU5MTA2MDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless headphones"
+    },
+    {
+      "id": "product-backpack-1",
+      "description": "A durable and stylish gray backpack for everyday use.",
+      "imageUrl": "https://images.unsplash.com/photo-1535008652995-e95986556e32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmF5JTIwYmFja3BhY2t8ZW58MHx8fHwxNzU5MTIyMzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gray backpack"
+    },
+    {
+      "id": "product-running-shoes-1",
+      "description": "A pair of colorful and lightweight running shoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxydW5uaW5nJTIwc2hvZXN8ZW58MHx8fHwxNzU5MDI5MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "running shoes"
+    },
+    {
+      "id": "product-coffee-maker-1",
+      "description": "A modern drip coffee maker ready to brew.",
+      "imageUrl": "https://images.unsplash.com/photo-1581701663554-291c6c9e56d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29mZmVlJTIwbWFrZXJ8ZW58MHx8fHwxNzU5MTIxOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee maker"
+    },
+    {
+      "id": "product-desk-lamp-1",
+      "description": "An elegant and adjustable LED desk lamp.",
+      "imageUrl": "https://images.unsplash.com/photo-1582356630861-61bb9b41f541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkZXNrJTIwbGFtcHxlbnwwfHx8fDE3NTkxMTIzMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desk lamp"
+    },
+    {
+      "id": "product-novel-book-1",
+      "description": "A hardcover novel with an intriguing cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXJ8ZW58MHx8fHwxNzU5MDc0MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "product-sunglasses-1",
+      "description": "Stylish sunglasses with dark lenses and a modern frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1577803645773-f96470509666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdW5nbGFzc2VzfGVufDB8fHx8MTc1OTA2NDcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunglasses"
+    },
+    {
+      "id": "product-ceramic-mug-1",
+      "description": "A minimalist white ceramic mug.",
+      "imageUrl": "https://images.unsplash.com/photo-1647164487749-0d2cc2a25644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjZXJhbWljJTIwbXVnfGVufDB8fHx8MTc1OTA1ODU0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ceramic mug"
+    },
+    {
+      "id": "login-background",
+      "description": "Abstract background for login page.",
+      "imageUrl": "https://images.unsplash.com/photo-1573655349936-de6bed86f839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMHRleHR1cmV8ZW58MHx8fHwxNzU5MTA1MDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract texture"
+    }
+  ]
+}
